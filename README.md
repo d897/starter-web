@@ -10,3 +10,8 @@ but need project
 
 @ devops is really nice training
 
+@@@@@@nice training on Devops
+
+## good training by devops trainier
+
+## devops training on git, git hub
