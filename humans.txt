@@ -15,3 +15,11 @@
     jQuery, Modernizr
 
 ## nice trg by devops
+
+jave prg
+docker
+
+*********************************
+added php
+python
+
