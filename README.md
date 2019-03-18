@@ -17,3 +17,6 @@ but need project
 ## devops training on git, git hub
 
 ***************add devops******************
+
+my address is on road bunglow
+fitness 77 gym
