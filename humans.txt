@@ -19,7 +19,10 @@
 jave prg
 docker
 
+<<<<<<< HEAD
 *********************************
 added php
 python
 
+=======
+>>>>>>> develop
