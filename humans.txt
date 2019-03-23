@@ -13,3 +13,8 @@ addng title for git stash
 added 1 devops trg
 
 
+----------------------------
+
+again add some new tranings
+
+
