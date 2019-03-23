@@ -24,3 +24,4 @@ fitness 77 gym
 
 adding git rebase lectures
 we have doen so much of work today
+do the project on git and git hub now
