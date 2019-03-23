@@ -3,40 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+**************
 
-# THANKS
+new training added in devops
+addng title for git stash
 
-    <name>
 
-# TECHNOLOGY COLOPHON
+&&&&&&&&&&
+added 1 devops trg
 
-    HTML5, CSS3
-    jQuery, Modernizr
-
-## nice trg by devops
-
-jave prg
-docker
-
-<<<<<<< HEAD
-*********************************
-added php
-python
-
-=======
->>>>>>> develop
-
-thanks to all my students
-
-***************
-new technology added again
-
-File modified for mybranch
-
-deops enginerer are working
-
---------------------------
-
-doing changes in local	
 
