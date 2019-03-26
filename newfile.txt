@@ -1,0 +1,2 @@
+&&adding new file and git project
+This file is still not tracked by GIT
